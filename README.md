@@ -1,0 +1,2 @@
+# Roblox-Luau-Formatter
+Lightweight developer utility for formatting Lua and Luau files and folders.
